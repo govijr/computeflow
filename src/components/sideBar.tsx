@@ -13,8 +13,8 @@ export default function Sidebar() {
     const auth = {
         user:{
             image:"https://avatars.githubusercontent.com/u/111436589?v=4",
-            email:"yakshitchhipa@gmail.com",
-            name:"Yakshit"
+            email:"goviniputi@gmail.com",
+            name:"Govi"
         }
     }
 

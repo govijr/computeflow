@@ -142,7 +142,7 @@ const DatabaseClient = buildClient();
 
 const defaultOptions = {
   databaseURL:
-    "https://yakshit-chhipa-s-workspace-p8bvk5.eu-central-1.xata.sh/db/cheapcloud",
+    process.env.DB_URL
 };
 
 export class XataClient extends DatabaseClient<DatabaseSchema> {

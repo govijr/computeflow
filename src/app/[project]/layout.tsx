@@ -23,7 +23,7 @@ export default async function ProjectDashLayout({ params, children }: { params: 
             startCommand: 'index.js',
             buildCommands: 'npm install'
         },
-        deployed_from: 'https://github.com/Axnjr/starter-express-api',
+        deployed_from: 'https://github.com/Govijr/starter-express-api',
         env_variables: '',
         id: 'rec_cq3coc82kjje0ecqdbvg',
         instance_metadata: { instanceId: 'i-0c354a655d3d33149', instanceType: 'Plus' },

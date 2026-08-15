@@ -20,7 +20,7 @@ Content-Disposition: attachment; filename="userdata.txt"
 #!/bin/bash
 /bin/echo "Hello World" >> /tmp/testfile.txt
 sudo yum install git -y
-mkdir yakshit
+mkdir Govi
 sudo yum install -y nodejs npm 
 mkdir radhakrishn
 --//--

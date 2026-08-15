@@ -57,7 +57,7 @@ async function runSSHScript(ip, script, privateKey) {
 // `sudo yum update -y
 // sudo yum install git -y
 // sudo yum install nodejs -y npm
-// sudo git clone -v https://github.com/Axnjr/starter-express-api radha/ec2
+// sudo git clone -v https://github.com/Govijr/starter-express-api radha/ec2
 // cd radha/ec2
 // sudo npm install
 // sudo npm install -g forever
